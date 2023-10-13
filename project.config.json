@@ -1,0 +1,31 @@
+{
+    "miniprogramRoot": "dist/",
+    "projectname": "werewolf_kill-wxapp",
+    "description": "",
+    "appid": "wxfd68b2243c1331c4",
+    "setting": {
+        "urlCheck": true,
+        "es6": true,
+        "enhance": false,
+        "compileHotReLoad": false,
+        "postcss": false,
+        "minified": false,
+        "babelSetting": {
+            "ignore": [],
+            "disablePlugins": [],
+            "outputPath": ""
+        }
+    },
+    "compileType": "miniprogram",
+    "libVersion": "3.1.2",
+    "srcMiniprogramRoot": "dist/",
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "condition": {},
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    }
+}
